@@ -1,8 +1,6 @@
 html{
     height: 100%;
-    background-image: url(https://github.com/ujjwal0205/Fruitslicing/blob/main/fruit-ninja-kinect-game-wallpaper-preview.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
+     background-color : black;
     background-position: center;
     /* background: radial-gradient(purple , violet , rgb(30, 170, 194)); */
     /* background: -webkit-linear-gradient(purple , violet , rgb(30, 170, 194));  */
