@@ -1,9 +1,6 @@
 html{
     height: 100%;
     background-color: black;
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position: center;
     /* background: radial-gradient(purple , violet , rgb(30, 170, 194)); */
     /* background: -webkit-linear-gradient(purple , violet , rgb(30, 170, 194));  */
     /* background: -moz-linear-gradient(purple , violet , rgb(30, 170, 194));  */
